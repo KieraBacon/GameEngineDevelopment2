@@ -15,8 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source\game.cpp">
+    <ClCompile Include="Source\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source\Week2-Demo2-main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\Game.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\StringHelpers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Include\StringHelpers.inl">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
