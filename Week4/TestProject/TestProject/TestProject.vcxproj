@@ -146,8 +146,9 @@
     <ClCompile Include="..\..\Common\GameTimer.cpp" />
     <ClCompile Include="..\..\Common\GeometryGenerator.cpp" />
     <ClCompile Include="..\..\Common\MathHelper.cpp" />
-    <ClCompile Include="FrameResource.cpp" />
-    <ClCompile Include="Week5-1-CrateApp.cpp" />
+    <ClCompile Include="Source\Game.cpp" />
+    <ClCompile Include="Source\TextureHolder.cpp" />
+    <ClCompile Include="Source\Week2-Demo4-1-main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Common\Camera.h" />
@@ -159,7 +160,12 @@
     <ClInclude Include="..\..\Common\GeometryGenerator.h" />
     <ClInclude Include="..\..\Common\MathHelper.h" />
     <ClInclude Include="..\..\Common\UploadBuffer.h" />
-    <ClInclude Include="FrameResource.h" />
+    <ClInclude Include="Include\Game.hpp" />
+    <ClInclude Include="Include\StringHelpers.hpp" />
+    <ClInclude Include="Include\TextureHolder.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Include\StringHelpers.inl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

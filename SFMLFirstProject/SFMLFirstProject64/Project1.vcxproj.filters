@@ -18,7 +18,10 @@
     <ClCompile Include="Source\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source\Week2-Demo2-main.cpp">
+    <ClCompile Include="Source\TextureHolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Week2-Demo4-1-main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -27,6 +30,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Include\StringHelpers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\TextureHolder.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -20,11 +20,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source\Game.cpp" />
-    <ClCompile Include="Source\Week2-Demo2-main.cpp" />
+    <ClCompile Include="Source\TextureHolder.cpp" />
+    <ClCompile Include="Source\Week2-Demo4-1-main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Include\Game.hpp" />
     <ClInclude Include="Include\StringHelpers.hpp" />
+    <ClInclude Include="Include\TextureHolder.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Include\StringHelpers.inl" />
