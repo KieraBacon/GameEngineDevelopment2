@@ -1,0 +1,9 @@
+﻿  Aircraft.cpp
+  Entity.cpp
+  game.cpp
+  main.cpp
+  SceneNode.cpp
+  SpriteNode.cpp
+  World.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\Repos\Educational\GAME3015 Game Engine Development II\GameEngineDevelopment2b\SFMLTestProject\x64\Debug\SFML64BitProject.exe
